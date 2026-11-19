@@ -1,0 +1,4 @@
+# the model files go to GitHub Releases, not into git
+release/
+models/
+*.onnx
